@@ -1,0 +1,8 @@
+c:\users\artemis\documents\visual studio 2017\Projects\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.csprojResolveAssemblyReference.cache
+c:\users\artemis\documents\visual studio 2017\Projects\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe.config
+c:\users\artemis\documents\visual studio 2017\Projects\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe
+c:\users\artemis\documents\visual studio 2017\Projects\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.pdb
+c:\users\artemis\documents\visual studio 2017\Projects\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.exe
+c:\users\artemis\documents\visual studio 2017\Projects\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.pdb
+c:\users\artemis\documents\visual studio 2017\Projects\CodeChallenge\CodeChallenge\bin\Debug\nunit.framework.dll
+c:\users\artemis\documents\visual studio 2017\Projects\CodeChallenge\CodeChallenge\bin\Debug\nunit.framework.xml
