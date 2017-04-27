@@ -33,7 +33,7 @@ namespace CodeChallenge
                 counter++;
             }
             file.Close();
-            Console.WriteLine("Thank You For Using This App!");
+            Console.WriteLine("Thank You For Using This App! Have a great day!");
 
             
         }
