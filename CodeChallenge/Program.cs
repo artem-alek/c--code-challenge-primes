@@ -33,8 +33,7 @@ namespace CodeChallenge
                 counter++;
             }
             file.Close();
-            //Suspend the screen.
-            Console.ReadLine();
+            Console.WriteLine("Thank You For Using This App!");
 
             
         }
